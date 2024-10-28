@@ -13,7 +13,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tevfikgorel&show_icons=true&locale=en" alt="tevfikgorel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tevfikgorel&" alt="tevfikgorel" /></p>
-## Hi there 👋
+
 
 <!--
 **tevfikgorel/tevfikgorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
